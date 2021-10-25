@@ -63,14 +63,7 @@ TBD.
 
 
 <!-- CONTACT -->
-## Team Members
-* Shreya Reddy
-* Huichao Zhao
-* Cheng-Han Chung
-* Apisit Junkun
-* Phuriwat Nitikunchainun
-* Venkata Sushanth
-* Zaid Altukhi
+## Contact Information
 
 
 <!-- Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
