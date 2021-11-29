@@ -77,7 +77,7 @@ Project Link: [https://github.com/magantiv/Dean-690-Project](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* 
+TBD .
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
