@@ -1,4 +1,4 @@
-# Dean-690-Project | Team Love 911 | Second Provider Call
+# Dean-690-Project | Team Love 911 | Second Provider Calls
 <div id="top"></div>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -13,7 +13,7 @@
 
 
 
-<h3 align="center">Second Provider Calls</h3>
+
 
 #### [George Mason University](https://www2.gmu.edu)
 #### DAEN Department | DAEN 690 | Professor: Bernard Schmidt
