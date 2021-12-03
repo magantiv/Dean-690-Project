@@ -55,6 +55,7 @@ Fire Departments across the nation are being challenged with rising call volume,
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+
 ## Analytics
 
 * Decision tree
@@ -62,6 +63,7 @@ Fire Departments across the nation are being challenged with rising call volume,
 * Correlation Analysis
 * Precision Analysis
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
