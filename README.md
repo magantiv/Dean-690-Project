@@ -29,6 +29,18 @@ Fire Departments across the nation are being challenged with rising call volume,
 
 
 
+## Team Members
+
+* Shreya Reddy            | Product Owner
+* Huichao Zhao            | Developer
+* Cheng-Han Chung         | Developer
+* Apisit Junkun           | Developer
+* Phuriwat Nitikunchainun | Developer
+* Venkata Sushanth        | Developer
+* Zaid Altukhi            | Developer
+
+
+
 ## Tools Used
 
 * [Pandas](https://pandas.pydata.org)
@@ -43,14 +55,14 @@ Fire Departments across the nation are being challenged with rising call volume,
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-## Team Members
-* Shreya Reddy            | Product Owner
-* Huichao Zhao            | Developer
-* Cheng-Han Chung         | Developer
-* Apisit Junkun           | Developer
-* Phuriwat Nitikunchainun | Developer
-* Venkata Sushanth        | Developer
-* Zaid Altukhi            | Developer
+## Analytics
+
+* Decision tree
+* Logistic Regression
+* Correlation Analysis
+* Precision Analysis
+
+
 
 
 <!-- LICENSE -->
