@@ -62,15 +62,7 @@ MIT.
 
 
 
-<!-- CONTACT -->
-## Contact Information
 
-
-<!-- Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/magantiv/Dean-690-Project](https://github.com/magantiv/Dean-690-Project)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
