@@ -69,12 +69,6 @@ Fire Departments across the nation are being challenged with rising call volume,
 
 
 
-<!-- LICENSE -->
-## License
-
-MIT.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
