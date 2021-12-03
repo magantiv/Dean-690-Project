@@ -39,6 +39,8 @@ Fire Departments across the nation are being challenged with rising call volume,
 * Venkata Sushanth        | Developer
 * Zaid Altukhi            | Developer
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
 ## Tools Used
