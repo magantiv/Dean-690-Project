@@ -33,8 +33,8 @@ Fire Departments across the nation are being challenged with rising call volume,
 
 ## Problem
 
-1 . Under what circumstances do we need a Second Provider?
-2 . Under what circumstances can ALS be reduced to BLS?
+*  1 . Under what circumstances do we need a Second Provider?
+*  2 . Under what circumstances can ALS be reduced to BLS?
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -82,9 +82,9 @@ Fire Departments across the nation are being challenged with rising call volume,
 ## Detect Second Provider
 
 Three steps to classify Second Provider Calls
-Step 1 : TransportLOC column contains categories from level one to level four. "Level one" implies that it was a second provider case.
-Step 2 : The number of the different units that have transport status in the unit history dataset is "greater than one".
-Step 3 : Match the time that the units were out of service and the time that units back to service to during the incident.
+*  Step 1 : TransportLOC column contains categories from level one to level four. "Level one" implies that it was a second provider case.
+*  Step 2 : The number of the different units that have transport status in the unit history dataset is "greater than one".
+*  Step 3 : Match the time that the units were out of service and the time that units back to service to during the incident.
 ![image](https://user-images.githubusercontent.com/62821251/144661891-7de92131-d9b8-40f2-b292-2bcc72a713db.png)
 
 
