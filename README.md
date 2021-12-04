@@ -81,7 +81,8 @@ Fire Departments across the nation are being challenged with rising call volume,
 
 ## Detect Second Provider
 
-Three steps to classify Second Provider Calls
+Under normal circumstances, a medical unit is equipped with two providers. However, when the situation is serious, additional providers will be needed. Therefore, we need to find out under which circumstances additional providers(second provider) are needed.
+Three steps to classify Second Provider Calls.
 *  Step 1 : TransportLOC column contains categories from level one to level four. "Level one" implies that it was a second provider case.
 *  Step 2 : The number of the different units that have transport status in the unit history dataset is "greater than one".
 *  Step 3 : Match the time that the units were out of service and the time that units back to service to during the incident.
