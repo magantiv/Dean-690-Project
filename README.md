@@ -34,7 +34,7 @@ Fire Departments across the nation are being challenged with rising call volume,
 ## Problem
 
 *  1 . Under what circumstances do we need a Second Provider?
-*  2 . Under what circumstances can ALS be reduced to BLS?
+*  2 . Under what circumstances can ALS be downgrade to BLS?
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
