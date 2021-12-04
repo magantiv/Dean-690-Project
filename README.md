@@ -24,7 +24,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Fire Departments across the nation are being challenged with rising call volume, personnel, and equipment shortages. Managing these challenges requires a basic understanding of how changes in levels of fire department resources that are deployed affect the outcomes from emergencies that occur regularly. Failure in managing these challenges may leave the individuals and community vulnerable to undesirable events. To avoid such situations, The Fairfax County Fire and Rescue Department(FCFRD) would require implementing strategies to predict the requirements for each causality based on the type of call received. The FCFRD needs to determine which circumstances would require a second additional life support provider to be accompanied by a medic unit. This would provide a detailed classification of the type of calls that would require a second additional life support unit. It would help the FCFRD reduce the arrival time and enhance service to the community.  Since the cost involved in dispatching an ALS unit is observed to be greater than a BLS unit, the FCFRD also considers transitioning some ALS units to BLS whenever it is considered sensible. This would help the FCFRD allocate resources effectively and would provide a safe environment to the community by minimizing the impact of the incidents that have occurred.
+Fire Departments across the nation are being challenged with rising call volume, personnel, and equipment shortages. Managing these challenges requires a basic understanding of how changes in levels of fire department resources that are deployed affect the outcomes from emergencies that occur regularly. Failure in managing these challenges may leave the individuals and community vulnerable to undesirable events. To avoid such situations, The Fairfax County Fire and Rescue Department(FCFRD) would require implementing strategies to predict the requirements for each causality based on the type of call received. The FCFRD needs to determine which circumstances would require a second additional life support provider to be accompanied by a medic unit. This would provide a detailed classification of the type of calls that would require a second additional life support unit. It would help the FCFRD reduce the arrival time and enhance service to the community.  Since the cost involved in dispatching an Advanced Life Support(ALS) unit is observed to be greater than a Basic Life Support(BLS) unit, the FCFRD also considers transitioning some ALS units to BLS whenever it is considered sensible. This would help the FCFRD allocate resources effectively and would provide a safe environment to the community by minimizing the impact of the incidents that have occurred.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -34,7 +34,7 @@ Fire Departments across the nation are being challenged with rising call volume,
 ## Problem
 
 *  1 . Under what circumstances do we need a Second Provider?
-*  2 . Under what circumstances can ALS be downgrade to BLS?
+*  2 . Under what circumstances can ALS unit be downgraded to BLS unit?
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
